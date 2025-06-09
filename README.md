@@ -41,7 +41,7 @@ Also the .env file should be kept inside the my-auth-backend folder so the proje
 I have the demo of this project on my google drive : https://drive.google.com/file/d/1CFBYfDKHG15QJeAGJPcaTIIU8QtvgqVT/view?usp=drive_link
 
 ## Preview of the project
-![App Screenshot](assets/sign in page.jpeg)
+![App Screenshot](assets/signinpage.jpeg)
 ![App Screenshot](assets/1749098104173.jpeg)
 
 
